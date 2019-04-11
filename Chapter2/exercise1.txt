@@ -1,4 +1,4 @@
-The following statemetns were run in IDLE.
+### The following statemetns were run in IDLE.
 
 >>> 9-3
 6

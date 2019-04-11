@@ -1,5 +1,5 @@
-Here are the values of x and y :
-
+### Here are the values of x and y :
+```python
 >>> x = 10.5
 >>> y = 4
 >>> x = x + y
@@ -8,3 +8,4 @@ Here are the values of x and y :
 >>> y
 4
 >>> 
+```

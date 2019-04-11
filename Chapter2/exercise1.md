@@ -1,5 +1,5 @@
 ### The following statemetns were run in IDLE.
-
+```python
 >>> 9-3
 6
 >>> 8*2.5
@@ -25,4 +25,4 @@
 >>> (4+3)*5
 35
 >>>
-
+```

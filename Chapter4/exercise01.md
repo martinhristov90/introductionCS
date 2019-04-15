@@ -1,6 +1,6 @@
 ### What value does each of the following expressions evaluate to? 
+### Verify your answers by typing the expressions into the Python shell.
 
-- Verify your answers by typing the expressions into the Python shell.
 
 ```python
 ’Computer’ + ’ Science’

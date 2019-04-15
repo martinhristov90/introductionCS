@@ -1,13 +1,15 @@
 ### What value does each of the following expressions evaluate to? 
 ### Verify your answers by typing the expressions into the Python shell.
 
+
 ```python
 ’Computer’ + ’ Science’
 ’Darwin\’s’
 ’H2O’ * 3
 ’CO2’ * 0
 ```
-## The above-mentioned expressions result in :
+
+- The above-mentioned expressions result in :
 
 ```python
 # Concatenation.

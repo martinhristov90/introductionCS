@@ -1,6 +1,5 @@
 ### Exercises
 
-Here are some exercises for you to try on your own. Solutions are available at http://pragprog.com/titles/gwpy3/practical-programming.
 
 ### 1. What value does each of the following expressions evaluate to? Verify your answers by typing the expressions into the Python shell.
 

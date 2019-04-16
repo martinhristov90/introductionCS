@@ -4,9 +4,11 @@
  
 ### Write an if statement that will print the population if it is between 10,000,000 and 35,000,000.
  
-### Write an if statement that will print “Densely populated” if the land density (number of people per unit of area) is ### greater than 100.
+### Write an if statement that will print “Densely populated” if the land density (number of people per unit of area) is 
+### greater than 100.
  
-### Write an if statement that will print “Densely populated” if the land density (number of people per unit of area) is ### greater than 100, and “Sparsely populated” otherwise.
+### Write an if statement that will print “Densely populated” if the land density (number of people per unit of area) is 
+### greater than 100, and “Sparsely populated” otherwise.
 
 - Write an if statement that will print the population if it is less than 10,000,000.
    

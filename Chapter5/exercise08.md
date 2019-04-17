@@ -9,3 +9,4 @@
     A better way is to choose one canonical scale, such as Celsius. Your conversion function could work in two steps: convert from the source scale to Celsius and then from Celsius to the target scale.
 
 - Now if you added a new temperature scale, how many if statements would you need to add?
+

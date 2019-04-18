@@ -10,11 +10,11 @@
     'CO2 H2O'.find('2')
     >>> 'CO2 H2O'.find('2')
     2
-    >>> 
     ```
 - The second occurrence of ’2’ in ’CO2 H2O’.
     ```python
-    'CO2 H2O'.find('2','CO2 H2O'.find('2') + 1)
+    >>> 'CO2 H2O'.find('2','CO2 H2O'.find('2') + 1)
+    5
     ```
 - True if and only if ’Boolean’ begins lowercase.
     ```python
@@ -29,7 +29,7 @@
     ```
 - A copy of "   Monday" with the leading whitespace removed.
     ```python
-        >>> '   Monday'.lstrip()
-        'Monday'
-        >>> 
+    >>> '   Monday'.lstrip()
+    'Monday'
+    >>> 
     ```

@@ -7,7 +7,7 @@
     [4, 12, 20, 38, 56, 88]
     >>> 
     ```
-- Which index contains radium’s atomic number? Write the answer in two ways, one using a positive index and one using a negative index.
+- Which index contains radium's atomic number? Write the answer in two ways, one using a positive index and one using a negative index.
     ```python
     >>> alkaline_earth_metals[5]
     88

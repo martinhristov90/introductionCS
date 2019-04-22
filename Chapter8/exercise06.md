@@ -1,4 +1,4 @@
-### In this exercise, you’ll create a list and then answer questions about that list.
+### In this exercise, you'll create a list and then answer questions about that list.
 
 
 - Create a list of temperatures in degrees Celsius with the values 25.2, 16.8, 31.4, 23.9, 28, 22.5, and 19.6, and assign 

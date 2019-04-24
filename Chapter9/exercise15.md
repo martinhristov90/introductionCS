@@ -18,16 +18,17 @@
 
 ```python
 
-i = 1
+i = 0
 j = 0
 
 while i <= 8:
-    i = i + 1
 
     while j <= i:
         j = j + 1
         print("T",end="")
-        
+
+    i = i + 1
+    
     j = 0
     print("\r")
 

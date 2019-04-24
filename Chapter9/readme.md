@@ -69,7 +69,7 @@
 - Rewrite the code to avoid this problem.
 
 ### 13. Using nested for loops, print a right triangle of the character T on the screen where the triangle is one character wide at its narrowest point and seven characters wide at its widest point:
-
+```python
 ​ 	T
 ​ 	TT
 ​ 	TTT
@@ -77,9 +77,9 @@
 ​ 	TTTTT
 ​ 	TTTTTT
 ​ 	TTTTTTT
-
+```
 ### 14. Using nested for loops, print the triangle described in the previous exercise with its hypotenuse on the left side:
-
+```python
 ​ 	      T
 ​ 	     TT
 ​ 	    TTT
@@ -87,7 +87,7 @@
 ​ 	  TTTTT
 ​ 	 TTTTTT
 ​ 	TTTTTTT
-
+```
 ### 15. Redo the previous two exercises using while loops instead of for loops.
 
 ### 16. Variables rat_1_weight and rat_2_weight contain the weights of two rats at the beginning of an experiment. Variables rat_1_rate and rat_2_rate are the rate that the rats’ weights are expected to increase each week (for example, 4 percent per week).

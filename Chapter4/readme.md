@@ -37,9 +37,9 @@
 ### 6. Consider this code:
 
 ```python
-​ 	​>>>​​ ​​first​​ ​​=​​ ​​'John'​
-​ 	​>>>​​ ​​last​​ ​​=​​ ​​'Doe'​
-​ 	​>>>​​ ​​print(last​​ ​​+​​ ​​', '​​ ​​+​​ ​​first)​
+​ 	​>>>   first   =   'John'​
+​ 	​>>>   last   =   'Doe'​
+​ 	​>>>   print(last   +   ', '   +   first)​
 What is printed by this code?
 ```
 

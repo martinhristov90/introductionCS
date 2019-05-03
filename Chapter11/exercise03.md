@@ -10,9 +10,6 @@ def mating_pairs(male: Set[str],female: Set[str]) -> Set[str]:
         print("The lenght of male and female sets should be equal")
     
     couples = set()
-
-        couples = set()
-
     for i in range(len(male)):
         couples.add((male.pop(),female.pop()))
         

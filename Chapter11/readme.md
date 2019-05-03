@@ -1,1 +1,1 @@
-### The exercises from this chapter a currently WIP ! 
+### The exercises from this chapter are currently WIP ! 

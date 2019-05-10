@@ -60,14 +60,14 @@ testDict = {
                     'notes'    : 'primate researcher',
                     'author'   : ['In the Shadow of Man',
                                 'The Chimpanzees of Gombe']},
-    'rfranklin' : {'surname'  : 'Franklin',
+    'rfranklin' : { 'surname'  : 'Franklin',
                     'forename' : 'Rosalind',
                     'born'     : 1920,
                     'died'     : 1957,
                     'notes'    : 'contributed to discovery of DNA'},
 
 
-    'rcarson'  : {'surname'  : 'Carson',
+    'rcarson'  : {  'surname'  : 'Carson',
                     'forename' : 'Rachel',
                     'born'     : 1907,
                     'died'     : 1964,

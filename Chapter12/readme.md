@@ -1,0 +1,1 @@
+## The exercises from Chapter 12 are currently WIP !

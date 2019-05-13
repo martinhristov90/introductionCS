@@ -28,9 +28,9 @@
 
     print("".join(str(char) for char in retStr))
 
-# How to use it :
+    # How to use it :
 
-compliment('AATTGCCGT')
+    compliment('AATTGCCGT')
 
     ```
 

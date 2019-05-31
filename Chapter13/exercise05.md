@@ -5,28 +5,28 @@
         - A variable called `index` is going to be used for indexing the elements.
         - Initial value is equal to length of the array minus 1.
         - While `index` is greater or equal to 0.
-        - Go and compare each element with its adjacent one, if the adjacent element is larger, swap the two elements
+        - Go and compare each element with its adjacent(next) one, if the adjacent(next) element is smaller, swap the two elements
         - Reduce index with 1
 
 2. Continue using top-down design until you have a Python algorithm.
     - Answer :
         - index = len(array) - 1
         - while index >= 0
-        - Go and compare each element with its adjacent one, if the adjacent element is larger, swap the two elements.
+        - Go and compare each element with its adjacent(next) one, if the adjacent(next) element is smaller, swap the two elements.
         - index = index - 1 
 
 3. Turn it into a function called bubble_sort(L).
     - Answer :
-    ```python
-    def bubble_sort(array):
-        index = len(array) - 1
-        while index >= 0:
-            for j in range(index):
-                if array[j] > array[j+1]:
-                    array[j], array[j+1] = array[j+1], array[j]
-            index -= 1
-        return array
-    ```
+        ```python
+        def bubble_sort(array):
+            index = len(array) - 1
+            while index >= 0:
+                for j in range(index):
+                    if array[j] > array[j+1]:
+                        array[j], array[j+1] = array[j+1], array[j]
+                index -= 1
+            return array
+        ```
 
 4. Try it out on the test cases from selection_sort.
     

@@ -48,3 +48,5 @@ print_times(L2)
 |20|0.05979899|0.02|0.04|
 |200|4.9842900|0.22|2.52|
 |2000|346.306324|2.50|192.06|
+
+NB : In order to execute the code above, you need the modules located in directory "Assets_Needed_exercise7" to be in the same folder.

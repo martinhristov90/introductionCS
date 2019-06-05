@@ -24,10 +24,7 @@ def print_times(L: list) -> None:
     bubble_time = time_it(bubble_sort.bubble_sort,L)
 
 
-    #if v == 10000000:
     print("{0}\t{1:.2f}\t\t{2:.2f}\t".format(selection_time, insertion_time, bubble_time))
-    #else:
-    #   print("{0}\t\t{1:.2f}\t\t{2:.2f}\t".format(while_time, sentinel_time, index_time))
 
 
 L = list(reversed(range(20)))

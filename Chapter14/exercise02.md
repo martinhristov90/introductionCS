@@ -1,6 +1,6 @@
-2. In this exercise, you will implement a Continent class, which represents a continent with a name and a list of countries. Class Continent will use class Country from the previous exercise. If Country is defined in another module, you’ll need to import it.
+In this exercise, you will implement a Continent class, which represents a continent with a name and a list of countries. Class Continent will use class Country from the previous exercise. If Country is defined in another module, you’ll need to import it.
 
-- 1. Here is a sample interaction from the Python shell:
+1. Here is a sample interaction from the Python shell:
 ```python
 >>> canada = country.Country('Canada', 34482779, 9984670)
 >>> usa = country.Country('United States of America', 313914040,
@@ -20,14 +20,14 @@ Mexico has a population of 112336538 and is 1943950 square km.
 >>>
 The code cannot be executed yet, because class Continent does not exist. Define Continent with a constructor (method __init__) that has three parameters: a continent, its name, and its list of Country objects.
 
-- 2. Consider this code:
+2. Consider this code:
 ```python
 >>> north_america.total_population()
 460733357
 ```
 In class Continent, define a method named total_population that returns the sum of the populations of the countries on this continent.
 
-- 3. Consider this code:
+3. Consider this code:
 ```python
 >>> print(north_america)
 North America
@@ -40,7 +40,7 @@ In class Continent, define a method named __str__ that returns a string represen
 
 ## Answers:
 
-- 1. 
+1. 
 ```python
 class Country:
     def __init__(self, name, population, area):
@@ -79,7 +79,7 @@ for country in north_america.countryList:
     print(country)
 ```
 
-- 2. 
+2. 
 ```python
 class Country:
     def __init__(self, name, population, area):
@@ -123,7 +123,7 @@ north_america = Continent('North America', countries)
 print(north_america.total_population())
 ```
 
-- 3. 
+3. 
 ```python
 class Country:
     def __init__(self, name, population, area):

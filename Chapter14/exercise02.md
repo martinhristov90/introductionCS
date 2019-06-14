@@ -172,5 +172,4 @@ countries = [canada, usa, mexico]
 north_america = Continent('North America', countries)
 
 print(north_america)
-
 ```

@@ -24,10 +24,7 @@ def print_times(L: list) -> None:
     bubble_time = time_it(bubble_sort.bubble_sort,L)
 
 
-    #if v == 10000000:
     print("{0}\t{1:.2f}\t\t{2:.2f}\t".format(selection_time, insertion_time, bubble_time))
-    #else:
-    #   print("{0}\t\t{1:.2f}\t\t{2:.2f}\t".format(while_time, sentinel_time, index_time))
 
 
 L = list(reversed(range(20)))
@@ -48,3 +45,5 @@ print_times(L2)
 |20|0.05979899|0.02|0.04|
 |200|4.9842900|0.22|2.52|
 |2000|346.306324|2.50|192.06|
+
+NB : In order to execute the code above, you need the modules located in directory "Assets_Needed_exercise7" to be in the same folder.

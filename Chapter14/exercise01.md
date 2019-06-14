@@ -148,5 +148,6 @@ class Country:
         return ("{0} has a population of {1} and its area is {2} square kilometers.".format(self.name,self.population,self.area))
     
     def __repr__(self):
+        # Using self.__class__.__name__ to get the object's class name, it returns 'str'
         return "{0}({1},{2},{3})".format(self.__class__.__name__,self.name,self.population,self.area)
 ```

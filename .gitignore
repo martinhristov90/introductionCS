@@ -34,5 +34,5 @@ __pycache__/
 *.py[cod]
 *experiment.py
 inc.txt
-tests/
+tests/*
 .vscode/

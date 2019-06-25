@@ -1,1 +1,1 @@
-### Currently reading chapter 15 !
+### Chapter 15 is finished, the exercises can be find in this folder.
